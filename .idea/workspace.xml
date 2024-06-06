@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4962100c-d0a3-448f-8930-2e998309a824" name="Changes" comment="C">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyTV/gui/ContentFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyTV/gui/ContentFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyTV/gui/UserProfileFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyTV/gui/UserProfileFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/DataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/DataBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/ContentFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/ContentFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/EditContentFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/EditContentFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/EditEpisodeFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/EditEpisodeFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/EpisodeFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/EpisodeFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/MainPageFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/MainPageFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/MovieFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/MovieFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/ReviewFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/ReviewFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/ReviewsPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/ReviewsPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/SearchPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/SearchPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/SeasonFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/SeasonFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/SeriesFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/SeriesFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/UserProfileFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/UserProfileFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/UserRegistrationFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/UserRegistrationFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/ViewableContentFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/ViewableContentFrame.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2XVC4ip36KyWLXXhPKCRj0t46sa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "true",
+    "JUnit.AdminTest.executor": "Run",
+    "JUnit.All in MyTV (2).executor": "Run",
+    "JUnit.All in MyTV (3).executor": "Run",
+    "JUnit.All in MyTV.executor": "Run",
+    "JUnit.ContentTest.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ctego/IdeaProjects/Java Main Project"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MyTV" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in MyTV (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyTV" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in MyTV (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyTV" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in MyTV (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyTV" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in MyTV" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyTV" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.All in MyTV (3)" />
+        <item itemvalue="JUnit.All in MyTV (2)" />
+        <item itemvalue="JUnit.All in MyTV (1)" />
+        <item itemvalue="JUnit.All in MyTV" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4962100c-d0a3-448f-8930-2e998309a824" name="Changes" comment="" />
+      <created>1698704670560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698704670560</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Not MyTV... OURTV touroutourourou">
+      <option name="closed" value="true" />
+      <created>1704308094917</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704308094917</updated>
+    </task>
+    <task id="LOCAL-00002" summary="B">
+      <option name="closed" value="true" />
+      <created>1704751755324</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704751755324</updated>
+    </task>
+    <task id="LOCAL-00003" summary="C">
+      <option name="closed" value="true" />
+      <created>1704752212681</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704752212681</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Not MyTV... OURTV touroutourourou" />
+    <MESSAGE value="B" />
+    <MESSAGE value="C" />
+    <option name="LAST_COMMIT_MESSAGE" value="C" />
+  </component>
+</project>
