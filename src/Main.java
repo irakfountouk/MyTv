@@ -49,7 +49,7 @@ public class Main
     public static void initializeData()
     {
         Admin admin1=new Admin("admin1","password1","Bob","Vance,Vance Refrigeration");
-        Admin admin2=new Admin("admin2","password2","Arsyp","Sxima pou summetexei sta EAAK");
+        Admin admin2=new Admin("admin2","password2","Aaa","Ddd");
         Subscriber subscriber1=new Subscriber("subscriber1","password1","Prison","Mike");
         Subscriber subscriber2=new Subscriber("subscriber2","password2","Name","Last-Name");
 
